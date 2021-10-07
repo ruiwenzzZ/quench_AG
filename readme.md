@@ -1,6 +1,6 @@
 # About this porject
 
-This Repository contains data in support of our work ["Exact Quench Dynamics from Algebraic Geometry"](https://arxiv.org/abs/2109.10568). 
+This repository contains data in support of our work ["Exact Quench Dynamics from Algebraic Geometry"](https://arxiv.org/abs/2109.10568). 
 There are two parts of data, one is for Loschmidt echo and one is for Renyi entropy. 
 In each folder, there is a Mathematica .wl file that plots the relavant data
 
